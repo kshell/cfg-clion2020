@@ -1,0 +1,43 @@
+<scheme name="weihua" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2019-05-13T14:51:18</property>
+    <property name="ide">CLion</property>
+    <property name="ideVersion">2018.3.4.0.0</property>
+    <property name="modified">2019-05-13T14:51:56</property>
+    <property name="originalScheme">Darcula copy</property>
+  </metaInfo>
+  <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="OC.BRACES">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="OC.BRACKETS">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="OC.PARENTHS">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
