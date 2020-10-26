@@ -1,5 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
@@ -18,6 +19,14 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledLanguages">
+      <set>
+        <option value="ObjectiveC" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
   <component name="JsonEditorOptions">
     <option name="COLON_MOVE_OUTSIDE_QUOTES" value="true" />
